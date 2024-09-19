@@ -2,7 +2,7 @@
 
 # CONSUL DEMOCRACY
 
-Citizen Participation and Open Government Application
+Citizen Participation and Open Government Application HALLO WELT
 
 ## CONSUL DEMOCRACY Project main website
 
